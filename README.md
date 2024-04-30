@@ -18,9 +18,9 @@ This project is a portfolio that I made for practice. Sample taken from youtube 
     * Content-right: Profile image
   + Education: containe timeline and education's self in each year until now(jobs and schools)
   + Services: show skills in tech
-  + Testimonials: from the other people that work with
+  + Skill:all the tools and programmings languages ​​I can use
   + Contact: fill blank of textbox for contacting to hire
-  + Footer:
+  + Footer: my contact info 
 ### *_III. Link References_*
   https://youtu.be/UqHILyzcULE?si=DFuydOn2V8cP1Cwh
   
