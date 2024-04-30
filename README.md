@@ -3,6 +3,7 @@
 ## REQUIREMENTS
 ### *_I. Name of project_*
     Alana Larissa Portfolio Pratice Demo - LIKE A CV
+- Note: Alana Larissa is my nick name.
 ### *_II. Purpose_*
 This project is a portfolio that I made for practice. Sample taken from youtube on How to Web Dev channel.
 - Header:
